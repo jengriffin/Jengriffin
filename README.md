@@ -1,5 +1,5 @@
 ### Hi there 👋
-![code and tea]([https://image.shutterstock.com/image-photo/hot-cup-tea-laptop-on-260nw-682867315.jpg](https://ibb.co/VL0W46P))
+![code and tea](https://i.ibb.co/0npjb5d/hot-cup-tea-laptop-on-260nw-682867315-copy.png)
 
 <!--
 **jengriffin/Jengriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
