@@ -1,4 +1,5 @@
 ### Hi there 👋
+![code and tea](https://image.shutterstock.com/image-photo/hot-cup-tea-laptop-on-260nw-682867315.jpg)
 
 <!--
 **jengriffin/Jengriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
